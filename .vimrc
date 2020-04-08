@@ -49,5 +49,5 @@ colo badwolf
 
 map <F9> : !python3 <CR>
 set tags=tags; 
-set ignorecase;
-set smartcase;
+set ignorecase
+set smartcase
